@@ -1,4 +1,6 @@
-package com.plociennik.leetcode.medium.p2dAddTwoNumbers;
+package com.plociennik.leetcode.problems.medium.p2dAddTwoNumbers;
+
+import com.plociennik.testing.resources.ListNode;
 
 import java.math.BigInteger;
 
@@ -22,6 +24,7 @@ public class AddTwoNumbers {
 
         ListNode node1 = createNode("1000000000000000000000000000001");
         ListNode node2 = createNode("564");
+
         ListNode listNode = addTwoNumbers(node1, node2);
         System.out.println("node done");
 

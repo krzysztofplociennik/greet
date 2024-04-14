@@ -1,4 +1,4 @@
-package com.plociennik.leetcode.easy.p14dLongestCommonPrefix;
+package com.plociennik.leetcode.problems.easy.p14dLongestCommonPrefix;
 
 /**
  * Write a function to find the longest common prefix string amongst an array of strings.

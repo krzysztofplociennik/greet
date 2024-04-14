@@ -1,4 +1,4 @@
-package com.plociennik.leetcode.easy.p20dValidParentheses;
+package com.plociennik.leetcode.problems.easy.p20dValidParentheses;
 
 public class ValidParentheses {
 

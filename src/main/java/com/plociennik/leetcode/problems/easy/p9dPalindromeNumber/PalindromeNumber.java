@@ -1,4 +1,4 @@
-package com.plociennik.leetcode.easy.p9dPalindromeNumber;
+package com.plociennik.leetcode.problems.easy.p9dPalindromeNumber;
 
 /**
  *

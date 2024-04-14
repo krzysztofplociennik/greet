@@ -1,4 +1,4 @@
-package com.plociennik.leetcode.easy.p13dRomanToInteger;
+package com.plociennik.leetcode.problems.easy.p13dRomanToInteger;
 
 import java.util.HashMap;
 import java.util.Map;

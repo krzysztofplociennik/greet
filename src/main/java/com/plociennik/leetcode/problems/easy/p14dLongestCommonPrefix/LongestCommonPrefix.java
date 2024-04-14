@@ -1,4 +1,4 @@
-package com.plociennik.leetcode.easy.p14dLongestCommonPrefix;
+package com.plociennik.leetcode.problems.easy.p14dLongestCommonPrefix;
 
 import java.util.Arrays;
 

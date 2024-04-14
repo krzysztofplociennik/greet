@@ -1,4 +1,6 @@
-package com.plociennik.leetcode.medium.p2dAddTwoNumbers;
+package com.plociennik.leetcode.problems.medium.p2dAddTwoNumbers;
+
+import com.plociennik.testing.resources.ListNode;
 
 /**
  * Problem can be found at: https://leetcode.com/problems/add-two-numbers/description/

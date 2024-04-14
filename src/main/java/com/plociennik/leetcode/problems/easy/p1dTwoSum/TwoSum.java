@@ -29,7 +29,7 @@ Constraints:
 -109 <= target <= 109
 Only one valid answer exists.
 */
-package com.plociennik.leetcode.easy.p1dTwoSum;
+package com.plociennik.leetcode.problems.easy.p1dTwoSum;
 
 import java.util.Arrays;
 
