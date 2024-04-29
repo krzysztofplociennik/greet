@@ -12,7 +12,6 @@ public class AddBinary2 {
         // a binary: 24847893154024981730169397005
         // a binary: 526700554598729746900966573811
 
-
     }
 
     public static String addBinary(String a, String b) {
